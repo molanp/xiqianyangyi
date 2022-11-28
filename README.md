@@ -4,4 +4,4 @@
 
 [原网页](https://www.xiqianyangyi.com/)
 
-[预览页面](https://molanp.github.io/xiqianyangyi_source_code)
+[预览页面](https://molanp.github.io/xiqianyangyi)
